@@ -12,7 +12,7 @@
         .table_titles, .table_cells_odd, .table_cells_even {
                 padding-right: 20px;
                 padding-left: 20px;
-                color: #000;
+                color: #00;
         }
         .table_titles {
             color: #FFF;
